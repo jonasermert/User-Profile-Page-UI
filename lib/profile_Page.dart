@@ -42,7 +42,7 @@ class _ProfileStatePage extends State<ProfilePage> {
         style: TextStyle(color: Colors.grey),
       ),
     ],
-  )
+  );
 }
 
 
